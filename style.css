@@ -177,12 +177,12 @@ h2{
   
     .apple{
       
-        bottom: 160px;
+        bottom: 170px;
         left: 35px;
        
     }
     .google{
-        bottom: 200px;
+        bottom: 210px;
         left: 35px;
     }
     .floating-svg {
@@ -346,4 +346,3 @@ body{
     }
 
 }
-
