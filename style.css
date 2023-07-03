@@ -224,8 +224,8 @@ h2{
     }
   
     .apple,
-    .google,
-    .qr {
+    .google
+     {
       
       width: 17%;
       height: auto;
@@ -241,6 +241,13 @@ h2{
         bottom: 130px;
         left: 35px;
     }
+
+    .qr {
+        bottom: 10px;
+        left: 40px;
+        width: 20%;
+        height: auto;
+      }
     .floating-svg {
       width: 50%;
     }
