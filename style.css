@@ -220,14 +220,14 @@ h2{
   
     h2 {
       font-size: 20px;
-      left: 170px;
+      left: 150px;
     }
   
     .apple,
     .google,
     .qr {
       
-      width: 15%;
+      width: 17%;
       height: auto;
     }
   
