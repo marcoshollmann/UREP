@@ -16,6 +16,7 @@ body {
 
 .elipse{
     z-index: -1;
+
 }
 
 h1{
@@ -199,7 +200,45 @@ h2{
       right: 0%;
     }
   }
-
+  @media (max-width: 360px) {
+    h1 {
+      font-size: 35px;
+    }
+  
+    h2 {
+      font-size: 20px;
+      left: 170px;
+    }
+  
+    .apple,
+    .google,
+    .qr {
+      
+      width: 20%;
+      height: auto;
+    }
+  
+    .apple{
+      
+        bottom: 130px;
+        left: 35px;
+       
+    }
+    .google{
+        bottom: 160px;
+        left: 35px;
+    }
+    .floating-svg {
+      width: 50%;
+    }
+  
+    .aquilo {
+      width: 70%;
+      height: auto;
+      top: 60%;
+      right: 0%;
+    }
+  }
   @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
 
 *{
