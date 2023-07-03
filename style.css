@@ -14,10 +14,6 @@ body {
     overflow: hidden;
 }
 
-.elipse{
-    z-index: -1;
-
-}
 
 h1{
     color: #FFF;
@@ -93,16 +89,19 @@ h2{
 .top-left {
     top:-10px;
     left:-10px;
+    z-index: -1;
 }
 
 .top-right {
     top: -10px;
     right: -10px;
+    z-index: -1;
 }
 
 .bottom-left {
     bottom: -10px;
     left: -10px;
+    z-index: -1;
 }
 
 .aquilo {
