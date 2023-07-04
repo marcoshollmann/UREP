@@ -148,7 +148,34 @@ h2{
  
 
   
+  @media (min-width: 3000px) {
+    h1 {
+      font-size: 60px;
+    }
   
+    h2 {
+      font-size: 40px;
+      left: 150px;
+    }
+  
+    .apple,
+    .google,
+    .qr {
+      width: 18%;
+      height: auto;
+    }
+  
+    .floating-svg {
+      width: 60%;
+    }
+  
+    .aquilo {
+      width: 70%;
+      height: 70%;
+      top: 40%;
+      right: 0%;
+    }
+  }
   @media (max-width: 768px) {
     h1 {
       font-size: 40px;
