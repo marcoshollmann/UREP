@@ -162,12 +162,12 @@ h2{
     .apple,
     .google,
     .qr {
-      width: 16%;
+      width: 12%;
       height: auto;
     }
   
     .floating-svg {
-      width: 80%;
+      width: 40%;
     }
   
     .aquilo {
