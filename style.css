@@ -148,7 +148,7 @@ h2{
  
 
   
-  @media (min-width: 2400px) {
+  @media (min-width: 2000px) {
     h1 {
       font-size: 60px;
     }
