@@ -145,7 +145,7 @@ h2{
     animation: floating 3s ease-in-out infinite;
   }
 
-  @media (min-width: 3000px) and (max-width: 4400px) {
+  @media (min-width: 2000px) and (max-width: 4400px) {
     h1 {
       font-size: 80px;
     }
