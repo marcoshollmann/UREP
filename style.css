@@ -50,7 +50,7 @@ h2{
     font-weight: 300;
     line-height: normal;
     position: fixed;
-    bottom: 240px;
+    bottom: 270px;
     left: 40px;
     display: flex;
     width: 150px;
@@ -68,7 +68,7 @@ h2{
 
 .apple{
     position: fixed;
-    bottom: 230px;
+    bottom: 250px;
     left: 40px;
     display: flex;
     width: 150px;
