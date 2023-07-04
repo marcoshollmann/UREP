@@ -150,28 +150,29 @@ h2{
   
   @media (min-width: 1800px) {
     h1 {
-      font-size: 80px;
+      font-size: 100px;
     }
   
     h2 {
-      font-size: 40px;
+      font-size: 60px;
+      bottom:100px;
       left: 150px;
     }
   
     .apple,
     .google,
     .qr {
-      width: 18%;
+      width: 16%;
       height: auto;
     }
   
     .floating-svg {
-      width: 60%;
+      width: 80%;
     }
   
     .aquilo {
-      width: 70%;
-      height: 70%;
+      width: 60%;
+      height: 60%;
       top: 40%;
       right: 0%;
     }
