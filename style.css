@@ -187,18 +187,18 @@ h2{
     .apple,
     .google,
     .qr {
-      width: 15%;
+      width: 14%;
       height: auto;
     }
   
     .floating-svg {
-      width: 60%;
+      width: 70%;
     }
   
     .aquilo {
-      width: 55%;
-      height: 55%;
-      top: 25%;
+      width: 50%;
+      height: 50%;
+      top: 30%;
       right: 0%;
     }
   }
