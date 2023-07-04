@@ -145,63 +145,9 @@ h2{
     animation: floating 3s ease-in-out infinite;
   }
 
-  @media (max-width: 4400px) {
-    h1 {
-      font-size: 80px;
-    }
-  
-    h2 {
-      font-size: 30px;
-      left: 150px;
-    }
-  
-    .apple,
-    .google,
-    .qr {
-      width: 20%;
-      height: auto;
-    }
-  
-    .floating-svg {
-      width: 60%;
-    }
-  
-    .aquilo {
-      width: 70%;
-      height: 70%;
-      top: 40%;
-      right: 0%;
-    }
-  }
+ 
 
-  @media (max-width: 2500px) {
-    h1 {
-      font-size: 60px;
-    }
   
-    h2 {
-      font-size: 40px;
-      left: 150px;
-    }
-  
-    .apple,
-    .google,
-    .qr {
-      width: 14%;
-      height: auto;
-    }
-  
-    .floating-svg {
-      width: 70%;
-    }
-  
-    .aquilo {
-      width: 50%;
-      height: 50%;
-      top: 30%;
-      right: 0%;
-    }
-  }
   
   @media (max-width: 768px) {
     h1 {
